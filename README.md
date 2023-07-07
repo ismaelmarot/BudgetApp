@@ -17,9 +17,6 @@ A Budget Counter App with:
 ------------
 #### SCREENSHOTS
 
-<p><img src="https://github.com/ismaelmarot/BudgetApp/tree/main/src/screens/BudgetApp_cap01.png" align="centre" width="100%"/></p>
-
-
 ![BudgetApp-capture](http://github.com/ismaelmarot/BudgetApp/src/screens/BudgetApp_cap01.png)
 
 
