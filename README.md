@@ -20,6 +20,7 @@ A Budget Counter App with:
 
 1
 <p><img src="https://github.com/ismaelmarot/BudgetApp/blob/main/src/screens/BudgetApp_cap01.png" align="centre" width="100%"/></p>
+<img width="681" alt="CBudgetApp_01" src="https://github.com/ismaelmarot/BudgetApp/blob/main/src/screens/BudgetApp_cap01.png">
 
 2
 <p><img src="https://github.com/ismaelmarot/React_CRUD_Persons/blob/master/imgs/image0.gif" align="centre" width="100%"/></p>
