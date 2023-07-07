@@ -19,8 +19,6 @@ A Budget Counter App with:
 
 ![BudgetApp-capture](http://github.com/ismaelmarot/BudgetApp/src/screens/BudgetApp_cap01.png)
 
-
-<p><img src="https://github.com/ismaelmarot/BudgetApp/blob/main/src/screens/BudgetApp_cap01.png" align="centre" width="100%"/></p>
 <p><img src="https://github.com/ismaelmarot/React_CRUD_Persons/blob/master/imgs/image0.gif" align="centre" width="100%"/></p>
 
 <img width="681" alt="CBudgetApp_01" src="https://github.com/ismaelmarot/BudgetApp/blob/main/src/screens/BudgetApp_cap01.png">
