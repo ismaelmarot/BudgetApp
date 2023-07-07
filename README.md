@@ -20,5 +20,5 @@ A Budget Counter App with:
 <p><img src="https://github.com/ismaelmarot/BudgetApp/tree/main/src/screens/BudgetApp_cap01.png" align="centre" width="100%"/></p>
 
 
-![CalculatorApp-capture](https://user-images.githubusercontent.com/43220852/209637186-9d579277-2fd8-40bb-b1b0-9795a2dcddff.jpg)
+![BudgetApp-capture](src/screens/BudgetApp_cap01.png)
 
